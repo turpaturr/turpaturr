@@ -75,9 +75,9 @@ I’m a huge **Linux enthusiast** — I love exploring different distributions, 
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ThurZ34&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThurZ34&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThurZ34&theme=tokyonight&layout=compact&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=turpaturr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=turpaturr&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=turpaturr&theme=tokyonight&layout=compact&hide_border=false)
 
 ---
 
@@ -87,7 +87,7 @@ I’m a huge **Linux enthusiast** — I love exploring different distributions, 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ThurZ34&icon=0&color=0" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=turpaturr&icon=0&color=0" alt="Profile Views" />
 </p>
 
 <!-- Proudly created with ❤️ by Fathur Rahman -->
